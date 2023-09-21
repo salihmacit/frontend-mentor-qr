@@ -22,8 +22,8 @@ body {
 }
 
 .main {
-    
-    height: 110vh;
+    padding-top:16px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
